@@ -1,2 +1,2 @@
 # Detect_faces-
-This repository contains code for detecting faces in images and videos. Encodings of faces for images to be detected is created. Faces are detected in the test image and compared to the encoding of faces created initially. Matching images are shown on the image 
+This repository contains code for detecting faces in images and videos. Encodings of faces from an image dataset is created. My repository https://github.com/YussifIbrahim/Triple_loss shows how to create an image dataset. For face recognition, Faces are detected in the test image and compared to the encoding of faces created initially from the dataset. The program is then able to recognise known face and unknown faces.
