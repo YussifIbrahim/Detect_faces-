@@ -4,5 +4,5 @@ This repository contains code for detecting faces in images and videos. Encoding
 
 
 
-#path changes-
+##path changes-
 This code does not parse arguments from command terminal so you would need to replace paths in the code. Parsing of arguments on the command prompt will be added later
